@@ -1,1 +1,1 @@
-# Codsoft-task-2
+This program takes two numbers and an operator as input, performs the corresponding operation, and then outputs the result. The switch statement is used to determine which operation to perform based on the entered operator.
